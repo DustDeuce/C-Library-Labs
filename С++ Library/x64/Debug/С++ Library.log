@@ -1,0 +1,34 @@
+﻿  main.cpp
+C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(68,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\VS Programms\С++ Library\С++ Library\main.cpp(70,10): warning C4101: a: неиспользованная локальная переменная
+C:\VS Programms\С++ Library\С++ Library\main.cpp(70,13): warning C4101: b: неиспользованная локальная переменная
+C:\VS Programms\С++ Library\С++ Library\main.cpp(70,16): warning C4101: c: неиспользованная локальная переменная
+C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(53,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(53,14):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(78,2):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void max_and_min<int>(std::vector<int,std::allocator<int>> &)"
+  
+C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(54,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(53,14): warning C4244: инициализация: преобразование "__int64" в "double", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(53,14):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(87,2):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void max_and_min<double>(std::vector<double,std::allocator<double>> &)"
+  
+C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(54,14): warning C4244: инициализация: преобразование "__int64" в "double", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(61,19): warning C4244: аргумент: преобразование "double" в "const __int64", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\VS Programms\С++ Library\С++ Library\1K_2S_Lab№1.h(61,44): warning C4244: аргумент: преобразование "double" в "const __int64", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  С++ Library.vcxproj -> C:\VS Programms\С++ Library\x64\Debug\С++ Library.exe
